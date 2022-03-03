@@ -1,4 +1,4 @@
-﻿YEAR,MOVIE,GENRE,MPAA RATING,DISTRIBUTOR,TOTAL FOR YEAR,TOTAL IN 2019 DOLLARS,TICKETS SOLD
+﻿YEAR,MOVIE,GENRE,MPAA_RATING,DISTRIBUTOR,TOTAL_FOR_YEAR,TOTAL_IN_2019_DOLLARS,TICKETS_SOLD
 1995,Batman Forever,Drama,PG-13,Warner Bros.,"$184,031,112","$387,522,978","4,23,06,002"
 1996,Independence Day,Adventure,PG-13,20th Century Fox,"$306,169,255","$634,504,608","6,92,69,062"
 1997,Men in Black,Adventure,PG-13,Sony Pictures,"$250,650,052","$500,207,943","5,46,07,854"
@@ -23,6 +23,6 @@
 2016,Finding Dory,Action,PG,Walt Disney,"$486,295,561","$514,967,322","5,62,19,140"
 2017,Star Wars Ep. VIII: The Last Jedi,Action,PG-13,Walt Disney,"$517,218,368","$528,173,936","5,76,60,910"
 2018,Black Panther,Action,PG-13,Walt Disney,"$700,059,566","$703,901,821","7,68,45,177"
-2019,Avengers: Endgame,,PG-13,Walt Disney,"$858,373,000","$858,373,002","9,37,08,843"
-2020,Bad Boys For Life,,R,Sony Pictures,"$204,417,855","$204,417,848","2,23,16,359"
-2021,Shang-Chi and the Legend of the Ten Rings,,PG-13,Walt Disney,"$224,226,704","$224,226,704","2,44,78,897"
+2019,Avengers: Endgame,Action,PG-13,Walt Disney,"$858,373,000","$858,373,002","9,37,08,843"
+2020,Bad Boys For Life,Action,R,Sony Pictures,"$204,417,855","$204,417,848","2,23,16,359"
+2021,Shang-Chi and the Legend of the Ten Rings,Action,PG-13,Walt Disney,"$224,226,704","$224,226,704","2,44,78,897"
